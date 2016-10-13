@@ -2,10 +2,10 @@
 
 [![N|Solid](http://docs.aws.amazon.com/images/aws_logo_105x39.png)](https://aws.amazon.com/)
 ## What is
-AWSRequestRestSignerV2 is a URL signer (AWS signature V2) for Amazon Web Services REST requests written in PHP. For a given URL, AWS Secret Key and AWS Associate Tag, you can get tje signed URL ready to make an AWS valid REST request
+AWSRequestRestSignerV2 is a URL signer (AWS signature V2) for Amazon Web Services REST requests written in PHP. For a given URL, AWS Secret Key and AWS Associate Tag, you can get the signed URL ready to make an AWS valid REST request.
 
 ## Requirements
-AWS-signature is provided as a single class ready to join any PHP project.
+AWSRequestRestSignerV2 is provided as a single class ready to join any PHP project.
 
 ### Mandatory
  ```
